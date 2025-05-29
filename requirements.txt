@@ -1,8 +1,0 @@
-Flask
-flask-cors
-python-whois
-requests
-Pillow
-opencv-python-headless
-numpy
-dnspython
